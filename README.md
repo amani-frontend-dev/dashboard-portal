@@ -1,3 +1,5 @@
+![CI](https://github.com/amani-frontend-dev/dashboard-portal/actions/workflows/ci.yml/badge.svg)
+
 # Dashboard Portal
 
 Unified navigation shell for the Amani trading system dashboards. Embeds the Signal Dashboard and Predict Dashboard as iframes with health monitoring and tab-based routing.
